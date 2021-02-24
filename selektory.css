@@ -1,0 +1,55 @@
+body {
+	background-color: #99ffcc;
+}
+.jeden {
+	width: 1000px;
+	margin: auto;
+}
+
+.baner {
+	background-color: #99ff66;
+	height: 200px;
+}
+
+.menu {
+	background-color: #66ccff;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.kolumna {
+	width: 310px;
+	padding: 10px;
+	float: left;
+
+}
+
+.stopka {
+	background-color: #66ccff;
+	color: #006666;
+	height: 30px;
+	padding: 50px;
+	text-align: right;
+}
+
+.bmenu {
+	color: #006666;
+	margin: 50px;
+	font-size: 200%;
+	text-decoration: none;
+	
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+.czy {
+	background-color: #ff0000;
+}
+.uru {
+	background-color: #00ff00;
+}
